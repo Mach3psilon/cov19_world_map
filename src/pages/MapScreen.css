@@ -1,0 +1,29 @@
+.map {
+    
+    width: 100%;
+    height: 100%;
+    display : flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    position: sticky;
+}
+
+.map__container {
+    width: 100%;
+    border-style: double;
+    
+    
+}
+
+.map__geography:hover {
+    fill: "#25cff2";
+    outline: none;
+}
+.Tooltip {
+    padding: 12px 21px !important;
+    
+}
+
+
+
